@@ -1,0 +1,95 @@
+/* CSS untuk Predikat SPBE */
+.predikat-container {
+    padding: 20px;
+    background-color: rgb(185, 206, 249);
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    height: 100%;
+}
+
+.predikat-title {
+    color: #003366;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.predikat-text {
+    font-size: 18px;
+    color: #333;
+}
+
+.predikat-description {
+    font-size: 16px;
+    color: #555;
+}
+
+/* CSS untuk Chat AI */
+.chat-container {
+    width: 100%;
+    padding: 10px;
+    background-color: #1e1e1e;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+}
+
+.chat-bubble {
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    max-width: 70%;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 1.4;
+    word-wrap: break-word;
+}
+
+.user-bubble {
+    background-color: #007bff;
+    color: white;
+    align-self: flex-start;
+    border-radius: 15px 15px 0 15px;
+}
+
+.ai-bubble {
+    background-color: #f1f1f1;
+    color: black;
+    align-self: flex-end;
+    border-radius: 15px 15px 15px 0;
+}
+
+.input-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.input-container input {
+    width: 80%;
+    padding: 10px;
+    border-radius: 25px;
+    border: 1px solid #ddd;
+    font-size: 14px;
+}
+
+.input-container button {
+    padding: 10px;
+    border-radius: 25px;
+    border: 1px solid #ddd;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.input-container button:hover {
+    background-color: #0056b3;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}

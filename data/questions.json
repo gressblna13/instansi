@@ -1,0 +1,82 @@
+[
+    {
+        "question": "Apa itu SPBE?",
+        "answer": "SPBE (Sistem Pemerintahan Berbasis Elektronik) adalah sistem yang diterapkan untuk meningkatkan kualitas pelayanan publik melalui teknologi informasi."
+    },
+    {
+        "question": "Apa saja domain dan aspek penilaian dalam SPBE?",
+        "answer": "Domain penilaian dalam SPBE terdiri dari:\nDomain 1: Kebijakan SPBE (13%)\nDomain 2: Tata Kelola SPBE (25%)\nDomain 3: Manajemen SPBE (16.5%)\nDomain 4: Layanan SPBE (45.5%)"
+    },
+    {
+        "question": "Apa yang dimaksud dengan Domain 1: Kebijakan SPBE?",
+        "answer": "Domain 1: Kebijakan SPBE mencakup kebijakan internal tata kelola SPBE di instansi pemerintah yang menjadi dasar pelaksanaan sistem pemerintahan berbasis elektronik."
+    },
+    {
+        "question": "Berapa nilai rata-rata SPBE untuk Kementerian dan LPNK?",
+        "answer": "Rata-rata nilai SPBE untuk Kementerian adalah 4.03 dan untuk LPNK adalah 3.82."
+    },
+    {
+        "question": "Apa yang dimaksud dengan Predikat SPBE?",
+        "answer": "Predikat SPBE adalah penilaian terhadap indeks SPBE, di mana nilai indeks 4.2-5.0 diberikan predikat Memuaskan, 3.5-4.2 Sangat Baik, dan sebagainya."
+    },
+    {
+        "question": "Apa saja dasar hukum yang mendasari SPBE?",
+        "answer": "Dasar hukum yang mendasari SPBE antara lain:\n1. Peraturan Presiden Nomor 95 Tahun 2018 tentang Sistem Pemerintahan Berbasis Elektronik.\n2. Peraturan Menteri Pendayagunaan Aparatur Negara dan Birokrasi Reformasi Nomor 59 Tahun 2020 tentang Pemantauan dan Evaluasi Sistem Pemerintahan Berbasis Elektronik."
+    },
+    {
+        "question": "Bagaimana metodologi yang digunakan untuk evaluasi SPBE?",
+        "answer": "Metodologi evaluasi SPBE diukur dengan model tingkat kematangan, yang mengukur karakteristik kapabilitas proses dan fungsi teknis SPBE berdasarkan lima tingkat kematangan."
+    },
+    {
+        "question": "Apa yang dimaksud dengan tingkat kematangan pada SPBE?",
+        "answer": "Tingkat kematangan pada SPBE mengukur sejauh mana suatu instansi telah menerapkan sistem pemerintahan berbasis elektronik secara efektif, efisien, dan berkualitas."
+    },
+    {
+        "question": "Apa yang dimaksud dengan tingkat kematangan pada kemampuan?",
+        "answer": "Tingkat kematangan pada kemampuan mengukur seberapa baik suatu instansi dalam menerapkan kemampuan dasar sistem, termasuk kebijakan dan manajamen."
+    },
+    {
+        "question": "Apa yang dimaksud dengan tingkat kematangan pada kapabilitas?",
+        "answer": "Tingkat kematangan pada kapabilitas mengukur seberapa mampu suatu instansi untuk menerapkan teknologi, administrasi, dan layanan publik berbasis elektronik."
+    },
+    {
+        "question": "Halo, apa kabar?",
+        "answer": "Halo! Saya baik-baik saja. Apa yang bisa saya bantu hari ini?"
+    },
+    {
+        "question": "Hai!",
+        "answer": "Hai! Ada yang bisa saya bantu?"
+    },
+    {
+        "question": "Selamat pagi!",
+        "answer": "Selamat pagi! Apa yang bisa saya bantu hari ini?"
+    },
+    {
+        "question": "Selamat siang!",
+        "answer": "Selamat siang! Apa kabar hari ini?"
+    },
+    {
+        "question": "Selamat malam!",
+        "answer": "Selamat malam! Apa yang bisa saya bantu untuk Anda?"
+    },
+    {
+        "question": "Apa kabar, AI?",
+        "answer": "Saya baik-baik saja, terima kasih! Ada yang bisa saya bantu?"
+    },
+    {
+        "question": "Apa yang dimaksud dengan pelayanan publik?",
+        "answer": "Pelayanan publik adalah semua aktivitas yang dilakukan oleh pemerintah untuk memenuhi kebutuhan masyarakat, seperti kesehatan, pendidikan, transportasi, dan lainnya."
+    },
+    {
+        "question": "Bagaimana cara meningkatkan kualitas layanan SPBE?",
+        "answer": "Untuk meningkatkan kualitas layanan SPBE, penting untuk memastikan sistemnya berjalan efisien, melibatkan teknologi terkini, dan memantau evaluasi serta feedback dari masyarakat."
+    },
+    {
+        "question": "Apa yang dimaksud dengan penilaian mandiri dalam SPBE?",
+        "answer": "Penilaian mandiri dalam SPBE adalah evaluasi yang dilakukan oleh masing-masing instansi terhadap penerapan SPBE untuk mengetahui sejauh mana tingkat kematangannya."
+    },
+    {
+        "question": "Apa perbedaan antara tingkat kematangan dan kapabilitas?",
+        "answer": "Tingkat kematangan mengukur sejauh mana sistem SPBE diterapkan, sedangkan kapabilitas mengukur kemampuan teknis dan organisasi untuk menjalankan sistem SPBE secara efektif."
+    }
+]
